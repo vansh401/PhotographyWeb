@@ -1,3 +1,3 @@
 # Photography-website
  
-<p>Link: https://jayantsharma17.github.io/Photography-website/</p>
+<p>Link: https://vansh401.github.io/PhotographyWeb/</p>
